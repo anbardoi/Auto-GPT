@@ -1,5 +1,5 @@
 #########################Setup.py#################################
-
+# pull request: I changed the system prompt here as well as the example outputs
 DEFAULT_SYSTEM_PROMPT_AICONFIG_AUTOMATIC = """
 Your task is to devise up to 5 highly effective goals, each beginning with the prefix, "Utilizing <types_of_reasoning> reasoning, ", and an appropriate role-based name (_GPT) for an autonomous agent, ensuring that the goals are optimally aligned with the successful completion of its assigned task.
 
